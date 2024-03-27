@@ -28,6 +28,7 @@
 <a href="https://stackoverflow.com/users/19772955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19772955" height="30" width="40" /></a>
 </p>
 
+###
 
 <div align="center" dir="auto">
     <table>
@@ -36,9 +37,9 @@
      <td align="center"><a href="https://github.com/Aware-1">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aware-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  /></a></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><a href="https://github.com/Ali-es313"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aware-1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /></a></td>
+      <td align="center" colspan="2"><a href="https://github.com/Aware-1"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aware-1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /></a></td>
     </tr><tr>
-      <td align="center" colspan="2"><a href="https://github.com/Ali-es313">  <img src="https://github-profile-trophy.vercel.app?username=Aware-1&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></a></td>
+      <td align="center" colspan="2"><a href="https://github.com/Aware-1">  <img src="https://github-profile-trophy.vercel.app?username=Aware-1&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></a></td>
     </tr>
     </tbody></table>
     </div>
