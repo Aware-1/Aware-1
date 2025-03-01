@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am a passionate full stack web application developer</h3>
+<h3 align="center">I am a passionate .NET developer</h3>
 
 - 🌱 I’m currently learning **Micro Service**
 
