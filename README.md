@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://dev.to/alies313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alies313" height="30" width="40" /></a>
 <a href="https://twitter.com/aware_es313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aware_es313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-eslami-?utm_source=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali eslami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali--eslami?utm_source=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali eslami" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19772955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19772955" height="30" width="40" /></a>
 </p>
 
